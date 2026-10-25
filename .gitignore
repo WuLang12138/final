@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+*.tmp
+data/**
+weights/**
+results/archived/**
+results/predictions/**
+results/figures/**

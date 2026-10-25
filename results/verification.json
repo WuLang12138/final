@@ -1,0 +1,650 @@
+{
+  "weights": 80,
+  "archived_runs": 80,
+  "passed": true,
+  "complete_best_weights": 0,
+  "incomplete_best_weights": 0,
+  "missing_best_weights": 80,
+  "existing_prediction_checks": [
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.455119640446869
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5512216726736179
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4853322695981544
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5442476793407585
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5310095738094255
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.45704721042483903
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4269895353450483
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3854510474318435
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.498668087397068
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3908560918050531
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3964975162927698
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3943028616303867
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.42083280983627513
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.36513359147941665
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4230844131811179
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.423766655835622
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.433667088612819
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4625677373327744
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4363053888836186
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.39877873759267296
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4360912116783167
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5334899828826017
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.42621585633969783
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5261591758669449
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5624067746555478
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4371857131225944
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3954185217137348
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.43012952807320726
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3351833528650094
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.403623738657186
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6228242567235789
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.613996229286048
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3802438546693892
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.36604416918874955
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5910248198183681
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.40550841154007783
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5799887117562673
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4618983777040549
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5120487741634004
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5767591489498938
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4354301223959742
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.457334270933888
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5761710189336489
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4007581638638667
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.46331549952664774
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4022584181791861
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4004416521215532
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.360471841561731
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3865480599388111
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.39126933435696853
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4910706695261746
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.3443969034126439
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.39677021573628163
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.45695695786063456
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4180269599234364
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5687198782080513
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5081534276429162
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.4956937303418007
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.384997741928689
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.49966022481612676
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_ARI": 0.5993446068585473
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.631240468131812
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6124973602888457
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6019080499219492
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.662990553377291
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5265621241215671
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5478834937022219
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5454834971712568
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5516895415654451
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.5563062203454138
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.66877528434269
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6461321021495523
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6770350227059223
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6636985381302536
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6042059939192894
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 0,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6376070060077879
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 1,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6427411022772859
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 2,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6808960857355668
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 3,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6323675265645937
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 42,
+      "max_abs_embedding_delta": 0.0,
+      "clustering_agreement_ARI": 1.0,
+      "archived_final_ARI": 0.6091376134560562
+    }
+  ]
+}

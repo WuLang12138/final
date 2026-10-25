@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "datasets": {
+    "DLPFC": {
+      "profile": "paper",
+      "checkpoint": "best",
+      "source": "existing_notebook_selection",
+      "notebook": "tutorials/01_DLPFC_论文实验.ipynb",
+      "note": "由当前实验Notebook的方案设置初始化；全部新预测将在核验时逐项检查。"
+    },
+    "HBC": {
+      "profile": "refined",
+      "checkpoint": "best",
+      "source": "existing_notebook_selection",
+      "notebook": "tutorials/02_HBC_论文实验.ipynb",
+      "note": "由当前实验Notebook的方案设置初始化；全部新预测将在核验时逐项检查。"
+    },
+    "STARmap": {
+      "profile": "paper",
+      "checkpoint": "best",
+      "source": "existing_notebook_selection",
+      "notebook": "tutorials/03_STARmap_论文实验.ipynb",
+      "note": "由当前实验Notebook的方案设置初始化；全部新预测将在核验时逐项检查。"
+    },
+    "osmFISH": {
+      "profile": "paper",
+      "checkpoint": "best",
+      "source": "existing_notebook_selection",
+      "notebook": "tutorials/04_osmFISH_论文实验.ipynb",
+      "note": "由当前实验Notebook的方案设置初始化；全部新预测将在核验时逐项检查。"
+    }
+  }
+}

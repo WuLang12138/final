@@ -1,0 +1,725 @@
+{
+  "training_performed": false,
+  "weights": [
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151507/paper/seed_0.pt",
+      "weight_sha256": "09d553db06040cea10cff8bbdd005e2fbbcf310499b609b64d8c5e3513c26f53",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151507_SpaSRD_seed0_b8e230cd63/resume.pt",
+      "source_sha256": "4cecc305ca1198d9f85cd46209836a6be2804fa5d3f8adca385fe49882108f6b"
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151507/paper/seed_1.pt",
+      "weight_sha256": "d64bfdbba399ac2cab4c2d2c11f00ad5609265b3a5ee1e27dc8892543dc99876",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151507_SpaSRD_seed1_b92e63773f/resume.pt",
+      "source_sha256": "ef404426e7d0b0c30544617983091765bc438387125466880df90525225f87be"
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151507/paper/seed_2.pt",
+      "weight_sha256": "d7c284a75c9e57adc3f75929eaa8a2442148ba2cf6f60361c4d3b3359a903a0c",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151507_SpaSRD_seed2_ccef333011/resume.pt",
+      "source_sha256": "1e4d8cb16d19560c1d60f9c6a5f122d8d912ac555ddbc17402242fb8064c604d"
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151507/paper/seed_3.pt",
+      "weight_sha256": "cca26a5b3b418f951f17c755c95dd40f46f064e7d1b50860dac79de5e630e168",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151507_SpaSRD_seed3_18f20782c8/resume.pt",
+      "source_sha256": "8bff5bf6da362d1b0f58f674d10d2660db76606b91ae0dc4478cc57e78eca6d1"
+    },
+    {
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151507/paper/seed_42.pt",
+      "weight_sha256": "d5fb6ba10ab5a5c3fb4da0f84bebf109c0780ebde79a27711fefd4af9b0b609b",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151507_SpaSRD_seed42_62d3e99e30/resume.pt",
+      "source_sha256": "7c5b860eddc2513c75b46b62d10b15bc019076c838cced8bac94bc4d268c40a2"
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151508/paper/seed_0.pt",
+      "weight_sha256": "98394d75f16711384eb996f6a085cdbed7a7d0d7f01efa0983f30fe142080341",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151508_SpaSRD_seed0_bd7df7919a/resume.pt",
+      "source_sha256": "7e4ef9d0ed54e4d49f4bdf3dbb9e942842bec4f572e82d147ef52472324d51ca"
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151508/paper/seed_1.pt",
+      "weight_sha256": "39ae14169539bafa61c3396571fbbb757b84a2c69f87ca2f9c42c6952b5390c0",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151508_SpaSRD_seed1_73bf803ce9/resume.pt",
+      "source_sha256": "c9d4cfb1fa61260821fe9eded4c2b0d9057e80baa29a03c8bdf80a05e162a81c"
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151508/paper/seed_2.pt",
+      "weight_sha256": "eae66d950aa1ab84fca65742df228c4bd08329858cfd7b8bb19bc8a6760db402",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151508_SpaSRD_seed2_0d2fe9fadf/resume.pt",
+      "source_sha256": "195d8ca0c08a0f78779263343bc6ecc67b9611a778689a6fadceefccb1eeeb1a"
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151508/paper/seed_3.pt",
+      "weight_sha256": "94ad89eb6d85f46552dea9183a7cb6d97267b28c5ef3979c36729921f2068857",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151508_SpaSRD_seed3_9019c6ed11/resume.pt",
+      "source_sha256": "c7b92309d5f4302ae1941739d33ee3849d456060abd57f8d0c502b6659ec1e38"
+    },
+    {
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151508/paper/seed_42.pt",
+      "weight_sha256": "05a6e4e8b6cd136becb0e357cd6ab7215cda1b63fbe4c27c783da8152bca31cf",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151508_SpaSRD_seed42_3daf229a20/resume.pt",
+      "source_sha256": "f8a3a5dd67d933c2de52dec346994d837d6ebc5e00de0b63a1d611088cfc8c7b"
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151509/paper/seed_0.pt",
+      "weight_sha256": "485e613e4538a8bbbcf0bb4029cdf4a9f587f93f74a06ee13098ef5af73404e7",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151509_SpaSRD_seed0_8e0c99a3d4/resume.pt",
+      "source_sha256": "25ad8cc13ff322f98a5df83b34399011e176c249cb40aa4ca26969fb1488ec53"
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151509/paper/seed_1.pt",
+      "weight_sha256": "33871742275aa950450085918448c7ea23d732e4552d0848e95499f40c79ced4",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151509_SpaSRD_seed1_9117555c6f/resume.pt",
+      "source_sha256": "3f14718cc29dc984d8cd457a7ca6a52ee99b428da43ae656ef9f63f3a91b6483"
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151509/paper/seed_2.pt",
+      "weight_sha256": "a8f94a6eb80821acbaebcfeadf381afd924461d34cef650b45f2bcbbe2dd1f78",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151509_SpaSRD_seed2_f3772abfa3/resume.pt",
+      "source_sha256": "6a45c4890b7366b0ad16425d3b14c0a311eb8b9fa93a34f511068d55b947f275"
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151509/paper/seed_3.pt",
+      "weight_sha256": "7bd558a21f7fb09ceac232df08d93ae4c4ec1897bf3e0638451deed0223f18e6",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151509_SpaSRD_seed3_317603d1fa/resume.pt",
+      "source_sha256": "84cdf2354d121ebc2dc30c64ef68b6c080e8d9569e33c57e454af72f722fab0f"
+    },
+    {
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151509/paper/seed_42.pt",
+      "weight_sha256": "e59f5f5c693083bf1556b392daaa4bc83c25483a3a198d98907942b4f3537fab",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151509_SpaSRD_seed42_de2bbed0eb/resume.pt",
+      "source_sha256": "5ddd86af2ad7c190589236bf04e5c022c9936b54f3ac731bef423cfdb06216da"
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151510/paper/seed_0.pt",
+      "weight_sha256": "693abfb24023f0370b08fafbd9781bdda1b1302103e723c2ed869acf64fc052b",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151510_SpaSRD_seed0_5c59bc8988/resume.pt",
+      "source_sha256": "7fa94673478ecf70a6a94ea86457d6c674da2bb06971c0be0e7ea19bf61928a6"
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151510/paper/seed_1.pt",
+      "weight_sha256": "2515a7ecee12f9516a6db37718dace41a8303bb3d94321c4b712cf258aac1ea9",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151510_SpaSRD_seed1_554c8a6773/resume.pt",
+      "source_sha256": "5527d42a3f0de95319d49ff9d55d0c052da581429d341db92a0d7f35730bafc0"
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151510/paper/seed_2.pt",
+      "weight_sha256": "9a6743d1dea770390fac6b18365c8b2724a1dae118179a3e79f51c57cdbd508a",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151510_SpaSRD_seed2_4bb7c2289f/resume.pt",
+      "source_sha256": "6badbbe1258ed3dac03b60aba4f15a12acc0542488904addfaf748f8d789ce0b"
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151510/paper/seed_3.pt",
+      "weight_sha256": "ee78f144071cbde7afc882ab39f3501247dbe0dd934a395964fbb024a052ebea",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151510_SpaSRD_seed3_a11db64e6a/resume.pt",
+      "source_sha256": "19d8ce3966e75b03ea84828d26e24a4c0e3d8d9a678fc48172cdac34c193d07b"
+    },
+    {
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151510/paper/seed_42.pt",
+      "weight_sha256": "c5fda84cc7a2bee7e0bbad5583166368857b0812bce03e3a979894687991c4b4",
+      "source": "results_propagation/spasrd_dlpfc_local_fullseed_acm_20261016_v1/runs/151510_SpaSRD_seed42_fc28d09914/resume.pt",
+      "source_sha256": "d22bd3e8ef7f0059c0a3f3e0657df56e153aea4f5b50ce6ff5ca2145fdaadf0c"
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151669/paper/seed_0.pt",
+      "weight_sha256": "9a72a04b70e4fa4435500bb538e63decd6ab70d117847436f781c236049ca146",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151669_SpaSRD_seed0_f983d99066/resume.pt",
+      "source_sha256": "042ba8d57a5c50b6b756422eb33a59bf4096e943d99bb4f9838d82a19a5d1d50"
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151669/paper/seed_1.pt",
+      "weight_sha256": "22ecbd70ec4115f1a8aa41b1dd21535cf272c235739f61fb5fbf81f32fa7e585",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151669_SpaSRD_seed1_0f5a3ce6b5/resume.pt",
+      "source_sha256": "bba6fb1e0a66fc2aade956d3966c0fd7a103f3b779d18a5ff57f5f8cc491d266"
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151669/paper/seed_2.pt",
+      "weight_sha256": "8686835d1011ea79c14cb1b48667caeb48b47d3fb290e8a0a45ad9cc36ea6eea",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151669_SpaSRD_seed2_08739880fb/resume.pt",
+      "source_sha256": "a7dfa5a4c966768dd49db03aeb2d46a85025cd4880c0c039d253215c485c2549"
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151669/paper/seed_3.pt",
+      "weight_sha256": "34fbb8149b452a547e2a72b3282ee3c1b936b11f9edf667f142df2f12a7aa892",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151669_SpaSRD_seed3_167a1176c9/resume.pt",
+      "source_sha256": "98e3247e00bfaf5bad32095c796aa2c26326dc662c894ef521da89de683a2512"
+    },
+    {
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151669/paper/seed_42.pt",
+      "weight_sha256": "f30a5e79db0a14d19b95c3f143f67b6142daab7c9c5b09b8b014394ca26671c2",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151669_SpaSRD_seed42_12d88f00b0/resume.pt",
+      "source_sha256": "605e2322ade539134f02b0a5b7bbb1ac4b3834edd4eeea60780cdcb74a58ad78"
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151670/paper/seed_0.pt",
+      "weight_sha256": "043fd6da21686369593b18cde4667b5fd7c02db0d53b33acb6a84156da83166b",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151670_SpaSRD_seed0_01f9319975/resume.pt",
+      "source_sha256": "d2b40bd3bf7cbaf9dd8d69903a71fd9b3cf89b4e8e2565fda64605d8ce704a67"
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151670/paper/seed_1.pt",
+      "weight_sha256": "9cd494ee15ff91cd3cb0f9904770697055347cfa740abf1eeb393d7f42db2e33",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151670_SpaSRD_seed1_6581da5c9d/resume.pt",
+      "source_sha256": "fec9feacccce3ecaf1e23595876f8528c6c8a8089f7dfbe6c93beaaa24e4ce66"
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151670/paper/seed_2.pt",
+      "weight_sha256": "c421f1a96a9f31e4ecc92ae87252d8dcfb2010e0a2ef5c37d78a3c1a00029f01",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151670_SpaSRD_seed2_e291a67f06/resume.pt",
+      "source_sha256": "0d2e0b2fad09d12fdf39c3c4b5350163a614ea0bfc1ef57e78ba7d4788e7f53e"
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151670/paper/seed_3.pt",
+      "weight_sha256": "7c4394fdca5eda500a349fe86f8bfc19485766f7a31f03e9666e37b850985508",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151670_SpaSRD_seed3_68b021851b/resume.pt",
+      "source_sha256": "d555101fa7a64e6e88d1ab0dbc02a70a28ef01d532d2d9615113c324b1af235a"
+    },
+    {
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151670/paper/seed_42.pt",
+      "weight_sha256": "ed1128f668de6b291c3b1320e59f732f12eb5c2d42dd5df773a3ced1dd40b6a0",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151670_SpaSRD_seed42_56c27f4b05/resume.pt",
+      "source_sha256": "89c47aa6f8b202bec558fed08dc0754e462d5f2528bc10f702230d93510bf3ad"
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151671/paper/seed_0.pt",
+      "weight_sha256": "64a095b2e6839601a902c363ccab96c5a4f61e81d7f88e92eb1e9ce92f11b290",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151671_SpaSRD_seed0_f0009429c8/resume.pt",
+      "source_sha256": "5d5ecb9c0507a4feafbc5dfe290195277d743af8bc010b433be5caaa88e5869e"
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151671/paper/seed_1.pt",
+      "weight_sha256": "b0b13524280f71f3f51c7658217fb1817a4ea4787206be7e3a4228be9f89cb13",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151671_SpaSRD_seed1_b2f7708077/resume.pt",
+      "source_sha256": "94f66ff6b1d5117b56c615b783611edcc750b9d72d5027341dfe0fe1f95e4d1d"
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151671/paper/seed_2.pt",
+      "weight_sha256": "9e9ff94a4e2e8ec77d6a6f8a5473c2501af61ce8f48568696b774d228ac4ea1b",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151671_SpaSRD_seed2_014ce5061a/resume.pt",
+      "source_sha256": "fa1b2aa351f2f40afe33efb9bb1acd89d8800935a8106ddb68a95081c9d381ef"
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151671/paper/seed_3.pt",
+      "weight_sha256": "ec46a9d8a81b0132d540d55693ffede0facd86510e877dbe40c8a9251ce95d9d",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151671_SpaSRD_seed3_6fa92cac7c/resume.pt",
+      "source_sha256": "c0cee6c2200b74984eef31cb44f0ca96d7882dc41fe30dc88500f9f44a74b659"
+    },
+    {
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151671/paper/seed_42.pt",
+      "weight_sha256": "2af86e5c59d9876c0a11f3ec38b860e94d1452c00b112406142b1e1cf426a418",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151671_SpaSRD_seed42_9576cc0a64/resume.pt",
+      "source_sha256": "5b6d19dfbe04f9e64fafc76d68597c61887cdb5f6849b3b21a578b9d912c2ea4"
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151672/paper/seed_0.pt",
+      "weight_sha256": "086cb00ae354dad2c71e9630b8e3dd28b97152cdd3ea02879d63cb8c013dc721",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151672_SpaSRD_seed0_83ce403ae1/resume.pt",
+      "source_sha256": "77aac79b235d8786c023cad11b85a8b5b7771b7165d9fb6caed9889150842a4c"
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151672/paper/seed_1.pt",
+      "weight_sha256": "4a9aa421f78312d45df8aa734602c210500283320b1687fc213358591b8abd67",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151672_SpaSRD_seed1_d6d3ae4d41/resume.pt",
+      "source_sha256": "64f6465525868fc5f6acbea6c8a905fd0842261a0fbf67427c7b9b4343d96447"
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151672/paper/seed_2.pt",
+      "weight_sha256": "ffac4481a29ebf982ca9644c992542688b13a60ce97ef63c0c9b78d3d7ae9214",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151672_SpaSRD_seed2_3e532461b3/resume.pt",
+      "source_sha256": "1d2b4af5821226fdc3e18db2a4a0d8ba00b79a6fca206a7ceae0823fc465d0ba"
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151672/paper/seed_3.pt",
+      "weight_sha256": "d371bece4f3915c57f8fbb7589b7f36740a485fc78ee69b1390450c27ac8349d",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151672_SpaSRD_seed3_2875a7d1c7/resume.pt",
+      "source_sha256": "cf2eb6404a09472bc61dcdaa0e7341703bd4caf664b423623efb3b3dc81fe77c"
+    },
+    {
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151672/paper/seed_42.pt",
+      "weight_sha256": "a3deaf411b15861e5d883bfd6b7c00ded7347054a993e0b1d685c01bf4f1d608",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/151672_SpaSRD_seed42_f71add5b79/resume.pt",
+      "source_sha256": "49f92cb135570c1b117f193fb8ac63af59c5d2bd46e3a0290fc7e6ba7c483fb9"
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151673/paper/seed_0.pt",
+      "weight_sha256": "e490ed38ae89794fc2193d653c1a6092497ef6b5735eb59a19630ca15e80e935",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151673_SpaSRD_seed0_b38adb52cc/resume.pt",
+      "source_sha256": "c68937f7a97bfc70554f4aaade6ca576697e9e101a56991252802a012bbf9222"
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151673/paper/seed_1.pt",
+      "weight_sha256": "4fd55dc9c40c5720936782f7f555f815d559179cd95b87935f2d4e18b0a142e4",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151673_SpaSRD_seed1_7f5b618738/resume.pt",
+      "source_sha256": "537fb726ad7b8b86129384b7fa97df18239fb5a8ba621162959751bd9abc91e8"
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151673/paper/seed_2.pt",
+      "weight_sha256": "513db063d1d3cb9c9fb85e62a0391e732fb609df8e8b1b6b648bb50196070a6e",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151673_SpaSRD_seed2_cd533fb0e0/resume.pt",
+      "source_sha256": "305d10d4843a4ac1229e2cf8afe620bf82fe4767c225f97568f79a7081d0b647"
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151673/paper/seed_3.pt",
+      "weight_sha256": "d264072305ceb0899cc5c60f011ca513c7f60d4576f9937e24dc4cbf79f81ab5",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151673_SpaSRD_seed3_820c3ae5d9/resume.pt",
+      "source_sha256": "906e6f5e551041bd75046839e7c07f984edea70929ffb23940250ad33b6fd2ff"
+    },
+    {
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151673/paper/seed_42.pt",
+      "weight_sha256": "f9acc53b192ed24821a9d9adcec6e1c3b3d6f3914b70ea3e93a6eb5375779543",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151673_SpaSRD_seed42_80a6f1d8ed/resume.pt",
+      "source_sha256": "de495a74db77b8aca3622950fb85cb4bf5f651ca575fc5ed5e08c2f1a3a13656"
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151674/paper/seed_0.pt",
+      "weight_sha256": "56cf898a9dbbf49ee2754bedf69416107f91fb0e79e5c5412d7db010a9a7af5b",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151674_SpaSRD_seed0_d701dd325d/resume.pt",
+      "source_sha256": "8e30fe30f629b543966427f0afa61ae912a3cb5b59438a08ed7dfa37028a74ec"
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151674/paper/seed_1.pt",
+      "weight_sha256": "3316e9a3781536502eaf483062150b48ad656c3b446791d5d4d6de0b6a9341d1",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151674_SpaSRD_seed1_ba3b613b90/resume.pt",
+      "source_sha256": "99be933e4a3a9165c577da3ebcfd7810cdcfbc1ba17e111c744aa32fd73ad0f6"
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151674/paper/seed_2.pt",
+      "weight_sha256": "41cdde1fc64c1d2604b8af9662becfbc22488fb3c7a9d83dd33b2441de0f97b1",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151674_SpaSRD_seed2_252e1749b6/resume.pt",
+      "source_sha256": "82b2caf466af20e6372043fd57b7fd0519dac357b5f71129a45a3b8118e4744a"
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151674/paper/seed_3.pt",
+      "weight_sha256": "4028d583a069694141446046b229d14a1fd8c763ad89ecc663b29a99a9353eff",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151674_SpaSRD_seed3_9392ae7f80/resume.pt",
+      "source_sha256": "a26003aef5ed6312fe046173c669a2c327cd6de74f50c205494d340f72793126"
+    },
+    {
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151674/paper/seed_42.pt",
+      "weight_sha256": "b1c3759264172f902a30ef5aba5ca1b74184f50810be09284b1fa9663fd3531c",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151674_SpaSRD_seed42_ac0f7a98d6/resume.pt",
+      "source_sha256": "ebab190c85da95a7abe1e612eaae810d43091948cdd84c887d5e99ddf4e1bd1c"
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151675/paper/seed_0.pt",
+      "weight_sha256": "0b4317b1056f1354cd2bc601b60a13fdcc3af5f34512d550c206af6a772a35e2",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151675_SpaSRD_seed0_dc57087589/resume.pt",
+      "source_sha256": "247b5a212d53c0aaf6030d9d7b1a91b891b5849153363a302f1df65f14581db1"
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151675/paper/seed_1.pt",
+      "weight_sha256": "40c7788c652c201ab6e650f02352c57092f2e888f7d3c9c5e69df6322e55041e",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151675_SpaSRD_seed1_94dd33291c/resume.pt",
+      "source_sha256": "6859f1d353c6b32048a2fd32ecd88c9ce00427452ce5e23e1b9a0ed864cd463e"
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151675/paper/seed_2.pt",
+      "weight_sha256": "688a7e84a8e19f1b92be45cd2f233f67d6cbb0772190519804ec1e148ff8970b",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151675_SpaSRD_seed2_58085cf4f2/resume.pt",
+      "source_sha256": "52e352165bc5c31bb613f792b39be890bf11c32b869b923befbf07a7b2276a23"
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151675/paper/seed_3.pt",
+      "weight_sha256": "30a2aaeeddce6b78f93087617c654b9b618412862f5cd3be9011d398cab3f833",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151675_SpaSRD_seed3_767e7384e3/resume.pt",
+      "source_sha256": "81f4bfd1c209bb3771c2a9d3265200ec8eb317796e33159802bff888d2f7d935"
+    },
+    {
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151675/paper/seed_42.pt",
+      "weight_sha256": "30a1e2603e72308e340175a81efac324adf0c719d8048fbd5e69ee994916a288",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151675_SpaSRD_seed42_68879e292a/resume.pt",
+      "source_sha256": "3dce44bc305b923e033cf4ffeb5cc1ddffeda32092317b068fdba9016dbeb777"
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/DLPFC/151676/paper/seed_0.pt",
+      "weight_sha256": "838b33c90ac85902f58faab76b21f6be8045671e424e4988eaeb8e1199fa52d9",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed0_581106062c/resume.pt",
+      "source_sha256": "d303dc709773985c049f8475d3c641d3d759d55a291aa00ec40e7c50a38b23d2"
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/DLPFC/151676/paper/seed_1.pt",
+      "weight_sha256": "3ef12c34b683d86900b8b27cd14883d6d33124240ef44adf59312d95dfc15bb1",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed1_7d5e1a836b/resume.pt",
+      "source_sha256": "c331e2b24d828c9fb8cc40ac68b211c1b8e29c78593d534e627c1a1ae09cd708"
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/DLPFC/151676/paper/seed_2.pt",
+      "weight_sha256": "f870ef8486228a690454f2451f30f5e7b12ca38abe01aa8187aabe0f04e771ab",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed2_fbe276ebb3/resume.pt",
+      "source_sha256": "f90257d7a63630944a227f3b9b0b329029d363eb5b26d0fdac4eee7bef98b5f6"
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/DLPFC/151676/paper/seed_3.pt",
+      "weight_sha256": "79d37be381ba16da9c83e80bc91e073b2a4fd1b016220a334ffeb849a4894e91",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed3_da51c1c53b/resume.pt",
+      "source_sha256": "db245cb5c8368d53ec77d22f744c413e8ee5b9ca7431c9d4bdf25c8d9332543f"
+    },
+    {
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/DLPFC/151676/paper/seed_42.pt",
+      "weight_sha256": "3414ef5a8816177272729e33addf89c9a849c8f0e8fef0aa42bbd1aef00d7ad3",
+      "source": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed42_1a57e04a97/resume.pt",
+      "source_sha256": "8ccfdf608aebf6e0d1346be9a89f697d918743233818e3b70bc130398261db42"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/HBC/human_breast_cancer/paper/seed_0.pt",
+      "weight_sha256": "ea7ccb1b37744bda33cb6f6b2074b1d2de9c6b5a7b0d744101faf47c061f05e3",
+      "source": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed0_1da951911e/resume.pt",
+      "source_sha256": "97ae96afce0057eb6a3ebbccee388e8bcdd8129ef933fdfc27505cb752ce876c"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/HBC/human_breast_cancer/paper/seed_1.pt",
+      "weight_sha256": "7c816effb4c87e7deeba612f1a273b4484feb15845aefa9fef42ca07530a5b67",
+      "source": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed1_bd0f2349b1/resume.pt",
+      "source_sha256": "589ac1ad56e798fa07a5cfe4c277ba1eb868d9259dccb99d6d8ee02ca2bdf75d"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/HBC/human_breast_cancer/paper/seed_2.pt",
+      "weight_sha256": "291134eb9571912c5bf89ce1b1c9ba5dd82745a6179698c29130b89d1d778df5",
+      "source": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed2_e759b164b9/resume.pt",
+      "source_sha256": "3cfaf78117b459281f2df71d1731f2c3942ca62f8d213097e740e12e0ad566c9"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/HBC/human_breast_cancer/paper/seed_3.pt",
+      "weight_sha256": "4d5bbb52e82aaa02a0c0847d5b323263588f1b95c8099278260d9446ec02ab46",
+      "source": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed3_a0f241cd69/resume.pt",
+      "source_sha256": "5168a032473a48a4bdd7a8361081c2e5cc269659204c0daec5f7852db727c43b"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/HBC/human_breast_cancer/paper/seed_42.pt",
+      "weight_sha256": "8bc7c667a00e12a9443b8a1943aa2d756e0c1415973b370b3095a6095a5657f2",
+      "source": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed42_a06e9999ca/resume.pt",
+      "source_sha256": "881aa874631d541cd2b791e48f103c33a49279cf3205e313fcbb402b368dcdb1"
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/STARmap/starmap/paper/seed_0.pt",
+      "weight_sha256": "26d4e67763973ac9426e8b738222d872d3bbb027fd98a05af2f6b02a8f0d6094",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed0_c45d0d9ce1/resume.pt",
+      "source_sha256": "16993be96d300b57d9a57a5bb0d01ae21359f21e678a8af8078fa2bda3331769"
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/STARmap/starmap/paper/seed_1.pt",
+      "weight_sha256": "ee9badaf5a4184e27fe4eee0db5a516bdaef11d6893592f5a29e938d5db7e4b4",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed1_69feb61bc8/resume.pt",
+      "source_sha256": "88729b1f48c8ad6cbb617e58daa441f268fb799d85b0b3ff6e9179df9b6c1cc9"
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/STARmap/starmap/paper/seed_2.pt",
+      "weight_sha256": "36b09bcaab091be43ff1abb1d9639f354f8c87723cef7f16e5115fb28823ce30",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed2_f517435060/resume.pt",
+      "source_sha256": "4b5f8d7df66b12f2ba3caeaacfd4a372d8999a7ce01e5c12f78d7f5c26da3e57"
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/STARmap/starmap/paper/seed_3.pt",
+      "weight_sha256": "e496fd9609ac2a57b83dcb6d5889ddcd581c83c7d4e99636d2f08caf26568f5a",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed3_72b186f7a2/resume.pt",
+      "source_sha256": "388813464503b294dd313533a528a46c13fca93a527af1555a331703c665b7f5"
+    },
+    {
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/STARmap/starmap/paper/seed_42.pt",
+      "weight_sha256": "4b80642c17d918df89c42f1a06c26d1bcfc397efeb1f0e5e22fba2e91537a27b",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed42_a92acbc499/resume.pt",
+      "source_sha256": "fc8937fd2d2847d9990de0837030bceeb19b7b3d36b3bf8242d0f18d6eb98976"
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 0,
+      "weight": "weights/osmFISH/osmfish/paper/seed_0.pt",
+      "weight_sha256": "5866104fd272c9fbb40ce214d773c2534a1ec448acef2ec9c940f218b8ff46e1",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed0_a49e17cd82/resume.pt",
+      "source_sha256": "2e98a8befe42fa55e8dc04815ace09cab1aed680e1ef5042d5306dc27e0216ad"
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 1,
+      "weight": "weights/osmFISH/osmfish/paper/seed_1.pt",
+      "weight_sha256": "2a5fd6a7ac00a7be2bb5779b290ff1742f5c93cfb23558e0a307495d67ed70f5",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed1_8cf554f0cf/resume.pt",
+      "source_sha256": "49f0c493c643e8a498aa312468479131fcaa36d3aea5ba5b892fbf7373be2324"
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 2,
+      "weight": "weights/osmFISH/osmfish/paper/seed_2.pt",
+      "weight_sha256": "9dca6435e3dc1143c3efed324661c7eb26eb99542c6557a9e0badef85ed9bfea",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed2_b6d1549166/resume.pt",
+      "source_sha256": "ee3727a3456521226962c9075092f86d54f2305355a9f53546d1c7b3771a9438"
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 3,
+      "weight": "weights/osmFISH/osmfish/paper/seed_3.pt",
+      "weight_sha256": "09b4e655b4c796eae585929cbc24d85cb8c135ea4deb04635b55e5dad2f8a1e1",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed3_5af105e82a/resume.pt",
+      "source_sha256": "154a28bd130332658ac30773a8cdee27629b49956b6bbff5db6bcf7d9cbfa6a0"
+    },
+    {
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 42,
+      "weight": "weights/osmFISH/osmfish/paper/seed_42.pt",
+      "weight_sha256": "291ca6c97e185e4c163f9cacde69e02852e3830aa47f7677533ce9ba749d79b6",
+      "source": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed42_9b34d287ff/resume.pt",
+      "source_sha256": "8f97f5171a088125e6ec1c0b6e2ca99db393c1bc4d1805331f8ca76d7c024b95"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 0,
+      "weight": "weights/HBC/human_breast_cancer/refined/seed_0.pt",
+      "weight_sha256": "7d30d3a9d9b8fff6146e6590fea487de8725f24802a5afabb66f6d11573d69b6",
+      "source": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed0_af668be1a2f1/resume.pt",
+      "source_sha256": "a2c4936d7ad08c49e539b1a1f4b61e82c4b0d54c20abef837bb657e2f64d4bf3"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 1,
+      "weight": "weights/HBC/human_breast_cancer/refined/seed_1.pt",
+      "weight_sha256": "6f02d55f71838a5f4a3dfe31c669de04e6da73d925a2919e1c17b7315cd919ca",
+      "source": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed1_0dda7857d6e0/resume.pt",
+      "source_sha256": "d007890dfd4b38e344d121d1f47642fcf43891913dc4cf5a28a18569e3d17ba9"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 2,
+      "weight": "weights/HBC/human_breast_cancer/refined/seed_2.pt",
+      "weight_sha256": "28a7dac6b88a2ca62790cb4995486dfdca16fdecafe47d969f21bc262f71a695",
+      "source": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed2_64c98824fa07/resume.pt",
+      "source_sha256": "0a2c7a728b95c6b60e7428ef4027ff7fd8ab0cc85dc62b7393cdb1335c1e6583"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 3,
+      "weight": "weights/HBC/human_breast_cancer/refined/seed_3.pt",
+      "weight_sha256": "3376ac72fe9f60e743a3ae67bee339bfa92561afd2048577db4ea2be9e853882",
+      "source": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed3_3265011dcad2/resume.pt",
+      "source_sha256": "30a85429a0cc55b9c9eb7dfe606b94e850b653e5db39990c7ef2fe9867e4753d"
+    },
+    {
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 42,
+      "weight": "weights/HBC/human_breast_cancer/refined/seed_42.pt",
+      "weight_sha256": "31f0f61c828e92bc776c6e5788c1d533f3aa1d0c9d5112dcf19b0d409ddc95d8",
+      "source": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed42_d70539b6d814/resume.pt",
+      "source_sha256": "113926afb6edef4f9ef49ceb7c9485f995285201e40784728d6f1a49b0b6e70c"
+    }
+  ]
+}
